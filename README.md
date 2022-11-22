@@ -4,3 +4,7 @@
 
 - 💼 Working at @inworld-ai
 - 📫 How to reach me: github@uthark.dev
+
+
+#### Verifications
+<a rel="me" href="https://hachyderm.io/@uthark">@uthark@hachyderm.io</a>
