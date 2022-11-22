@@ -7,4 +7,4 @@
 
 
 #### Verifications
-<a rel="me" href="https://hachyderm.io/@uthark">@uthark@hachyderm.io</a>
+<a rel="me" href="https://hachyderm.io/@uthark">@uthark at hachyderm.io</a>
